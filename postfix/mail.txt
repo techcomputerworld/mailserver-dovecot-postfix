@@ -1,0 +1,2 @@
+mail._domainkey	IN	TXT	( "v=DKIM1; k=rsa; t=y; "
+	  "p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCbqoLYjtsOAzjVATjZ6oUmn/duDD99TBWJn9VUYnCgx6KgQLMaMCoBi8Rth64gAQZISq6g52tJ7Zwdq1KTSKvpoNNcwFXNq9XMw2ZM4F4dMtVBFIEqxpjcotthK68Z7ygMu/HPkTyWJyILyf7cSJLrI1ROeVWYprwsuzS0P0LLIQIDAQAB" )  ; ----- DKIM key mail for gamesyap.com
