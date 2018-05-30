@@ -35,3 +35,9 @@ Me funciona el correo info@techcomputerworld.com el correo info@gamesyap.com no 
 ### What works for me with this configuration?
 
 I work the mail info@techcomputerworld.com the mail info@gamesyap.com does not receive mail in fact gives a notice if you send mail from any site of unknow user: "info" I think the problem is that I do not have it properly configured.
+
+### Base de datos 
+
+He puesto mi copia de seguridad de la base de datos, simplemente tendra que cambiar los datos mios por los que ustedes necesiten con sus dominios como explican en el tutorial de linode.
+
+I have put my backup of the database, I will simply have to change my data for the ones that you need with your domains as they explain in the tutorial of linode.
